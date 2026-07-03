@@ -7,3 +7,5 @@ The predictions are saved in:
 phase1_predictions.csv
 phase2_predictions.csv
 All code and training steps are documented in the Colab notebook included in this repository. The dataset used follows the provided folder structure, and no external data was used.
+
+This notebook was developed in Google Colab and expects the dataset to be mounted from Google Drive. The dataset itself was provided as part of a course assignment and isn't publicly redistributable - see the notebook for the expected folder structure if you want to adapt this to your own data.
